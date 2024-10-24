@@ -5,4 +5,4 @@ https://github.com/2303a51690/23CSBTB27-28/blob/main/BFS%26DFS%26A_ALGORITHM.ipy
 https://github.com/2303a51690/23CSBTB27-28/blob/main/Housing.ipynb
 https://github.com/2303a51690/23CSBTB27-28/blob/main/titanic_test%26titanic_train.ipynb
 https://github.com/2303a51690/23CSBTB27-28/blob/main/Classified_Data.ipynb
-https://github.com/2303a51690/23CSBTB27-28/blob/main/SVM(support_vector_machines.ipynb
+https://github.com/2303a51690/23CSBTB27-28/blob/main/(Assignment-7)SVM(support_vector_machines.ipynb
