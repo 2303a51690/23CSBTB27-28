@@ -10,3 +10,6 @@ https://github.com/2303a51690/23CSBTB27-28/blob/main/Decision_Tree(lab_8).ipynb
 https://github.com/2303a51690/23CSBTB27-28/blob/main/Random_forest(Lab_9).ipynb
 https://github.com/2303a51690/23CSBTB27-28/blob/main/KNN(lab_10).ipynb
 https://github.com/2303a51690/23CSBTB27-28/blob/main/Exam.ipynb
+
+#REINFORCEMENT LEARNING
+1.https://github.com/2303a51690/23CSBTB27-28/blob/main/RL(lab_1_MDPs).ipynb
